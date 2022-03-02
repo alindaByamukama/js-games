@@ -9,3 +9,12 @@ Learn JavaScript - Build Games. (FreeCodeCamp and Ania Kubów)[https://youtu.be/
 - (Frogger)[https://github.com/kubowania/breakout]
 - (Connect Four)[https://github.com/kubowania/connect-four]
 - (Space Invaders)[https://github.com/kubowania/space-invaders]
+
+## JavaScript Beginner concepts covered
+- DOM Manipulation
+- Functions
+- Event Listeners
+- Math.random
+- Math.floor
+- Conditional Loops
+- 
