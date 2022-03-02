@@ -18,3 +18,5 @@ Learn JavaScript - Build Games. (FreeCodeCamp and Ania Kubów)[https://youtu.be/
 - Math.floor
 - Conditional Loops
 - 
+- Debugging with Googel Developer tools
+- And much more ...
